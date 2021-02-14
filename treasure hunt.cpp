@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include<time.h>
-
+//git test
 int main(void)
 {
     int a,c,d;
